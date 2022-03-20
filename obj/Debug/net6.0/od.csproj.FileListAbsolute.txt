@@ -1,0 +1,15 @@
+C:\Users\canse\Desktop\Pratikler\od\bin\Debug\net6.0\od.exe
+C:\Users\canse\Desktop\Pratikler\od\bin\Debug\net6.0\od.deps.json
+C:\Users\canse\Desktop\Pratikler\od\bin\Debug\net6.0\od.runtimeconfig.json
+C:\Users\canse\Desktop\Pratikler\od\bin\Debug\net6.0\od.dll
+C:\Users\canse\Desktop\Pratikler\od\bin\Debug\net6.0\od.pdb
+C:\Users\canse\Desktop\Pratikler\od\obj\Debug\net6.0\od.csproj.AssemblyReference.cache
+C:\Users\canse\Desktop\Pratikler\od\obj\Debug\net6.0\od.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\canse\Desktop\Pratikler\od\obj\Debug\net6.0\od.AssemblyInfoInputs.cache
+C:\Users\canse\Desktop\Pratikler\od\obj\Debug\net6.0\od.AssemblyInfo.cs
+C:\Users\canse\Desktop\Pratikler\od\obj\Debug\net6.0\od.csproj.CoreCompileInputs.cache
+C:\Users\canse\Desktop\Pratikler\od\obj\Debug\net6.0\od.dll
+C:\Users\canse\Desktop\Pratikler\od\obj\Debug\net6.0\refint\od.dll
+C:\Users\canse\Desktop\Pratikler\od\obj\Debug\net6.0\od.pdb
+C:\Users\canse\Desktop\Pratikler\od\obj\Debug\net6.0\od.genruntimeconfig.cache
+C:\Users\canse\Desktop\Pratikler\od\obj\Debug\net6.0\ref\od.dll
